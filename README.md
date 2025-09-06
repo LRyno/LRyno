@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+![LRyno Banner](img/INFORMATICS%20ENGINEER.png)
+
 <!--
 **LRyno/LRyno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
