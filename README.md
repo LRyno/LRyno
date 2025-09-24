@@ -17,10 +17,10 @@
 ---
 
 ## 📂 Featured Projects
-- 📊 [Laptop Marketplace Analysis](https://github.com/YourUsername/Laptop-Marketplace-Analysis)  
+- 📊 [Laptop Marketplace Analysis](https://github.com/LRyno/Laptop-Marketplace-Analysis)  
   *Web scraping Tokopedia (Selenium), data cleaning (Pandas), analysis & visualization (Plotly & Dash).*
 
-*(More projects coming soon...)*
+*(More projects coming soon...)
 
 ---
 
